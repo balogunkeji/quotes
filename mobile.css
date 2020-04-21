@@ -2,21 +2,17 @@
     margin: 150px auto;
     /* background-color: cornflowerblue; */
     padding: 80px  20px;
-    max-width: 50%;
+    max-width: 70%;
     max-height: 50%;
 }
 
 button{
-    border: 1px solid red;
-    border-radius: 5px;
-    padding: 18px 10px;
-    max-width: 50%;
+    padding: 12px 10px;
+    max-width: 60%;
     max-height: 50%;
     /* display: block; */
-    margin-bottom: 1rem;
-    text-align: center;
-    font-size: 14px;
-    font-family: cursive;
+    font-size: 12px;
+
 }
 
 i{

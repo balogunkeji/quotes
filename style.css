@@ -19,7 +19,9 @@ body{
 }
 
 button{
-    border: 1px solid red;
+    border: 1px solid;
+    box-shadow: 4px 3px 0px 0px;
+    text-shadow: 1px 0px 0px;
     border-radius: 5px;
     max-width: 50%;
     max-height: 50%;
