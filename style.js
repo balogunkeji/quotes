@@ -70,7 +70,8 @@ const colors = ['rgba(255, 99, 71, 0.5)', 'rgba(60, 179, 113, 0.5)', 'rgba(255, 
       const colorIndex = Math.floor(Math.random()*colors.length);
       console.log(colorIndex);
       document.getElementById("quotes").innerText = data[test].text;               
-      document.querySelector("#author").innerText = "- " + data[test].author;
+      document.querySelector("#author").innerText
+       = "- " + data[test].author;
       document.getElementById('main').style.backgroundColor = colors[colorIndex];
       console.log(data);
    })
