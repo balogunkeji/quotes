@@ -1,0 +1,37 @@
+#main{
+    margin: 250px auto;
+    /* background-color: cornflowerblue; */
+    padding: 80px  20px;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+button{
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 18px 10px;
+    max-width: 50%;
+    max-height: 50%;
+    /* display: block; */
+    margin-bottom: 1rem;
+    text-align: center;
+    font-size: 14px;
+    font-family: cursive;
+}
+
+i{
+    color: crimson;
+}
+
+#author{
+    text-transform: capitalize;
+    display: block;
+    color: rgb(143, 15, 41);
+    font-size: 16px;
+}
+
+h3{
+    padding: 1px;
+    color: white;
+    font-size: 18px;
+}
