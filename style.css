@@ -29,6 +29,10 @@ button{
     font-family: cursive;
 }
 
+button:focus{
+    outline: none;
+}
+
 i{
     color: crimson;
 }
