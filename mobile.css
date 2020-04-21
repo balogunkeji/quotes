@@ -26,12 +26,10 @@ i{
 #author{
     text-transform: capitalize;
     display: block;
-    color: rgb(143, 15, 41);
     font-size: 16px;
 }
 
 h3{
     padding: 1px;
-    color: white;
     font-size: 18px;
 }
