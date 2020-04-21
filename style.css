@@ -42,10 +42,10 @@ i{
 #author{
     text-transform: capitalize;
     float: right;
-    color: hotpink
+    color: red;
 }
 
 h3{
     padding: 10px;
-    color: whitesmoke;
+    color: ivory;
 }
